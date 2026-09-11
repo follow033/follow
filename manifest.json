@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "xfollow",
+  "orientation": "any",
+  "scope": "/https://aramhack033.github.io/follow/",
+  "short_name": "xfollow",
+  "start_url": "https://aramhack033.github.io/follow/",
+  "theme_color": "#ffffff",
+  "id": "xfollow",
+  "share_target": {
+    "method": "GET"
+  },
+  "description": "Aram",
+  "display_override": [
+    "window-controls-overlay",
+    "fullscreen"
+  ]
+}
